@@ -1,0 +1,5 @@
+.architect
+.env
+node_modules
+.next
+
